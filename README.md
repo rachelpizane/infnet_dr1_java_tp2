@@ -7,5 +7,5 @@ INFNET - Análise e Desenvolvimento de Sistemas
 Fundamentos de Desenvolvimento com Java
 
 ## Status
-Andamento 🕗
+Concluído! ⭐
 <!--- {Andamento 🕗| Concluído! ⭐} --->
